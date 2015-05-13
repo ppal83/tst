@@ -14,6 +14,6 @@
       Hello from servlet!
 	Added...
 
-	r1 added
+	r2 added
   </body>
 </html>
