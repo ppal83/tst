@@ -16,7 +16,11 @@
 
 	r2 added
 
+<<<<<<< HEAD
 	r3 added +added more for --amend
 	r4
+=======
+	r3 added
+>>>>>>> a9345700d6503d16a9b21077f042688d9ed4d763
   </body>
 </html>
